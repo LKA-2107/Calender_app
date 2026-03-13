@@ -260,4 +260,4 @@ Author
 
 Likhith Kumar Arun Kumar
 
-Project built to automate schedule management for Primark/Penneys shifts.
+Project built to automate schedule management for Part-time shifts.
